@@ -1,0 +1,11 @@
+This is the wishlist:
+
+Verify that the source stick is an esxi formatted stick
+Save complete dd image of the source stick if space is available
+Compare source and target partition geometry and warn if required
+Verify and compare source and target
+Make really cool hardware/device listing and selection
+Some more error handling
+Create a bootstick including this script and prerequisites
+Make it graphical
+Migrate to run on other popular OS platforms
